@@ -1,3 +1,3 @@
 Game controller for fMRI
 =================
-This document describes how to build the MR compatible videogame controller developed for the .. Courtois Neuromod project:https://www.cneuromod.ca/ .
+This document describes how to build the MR compatible videogame controller developed for the `Courtois Neuromod project <https://www.cneuromod.ca/>`.
