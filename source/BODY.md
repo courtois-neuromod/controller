@@ -2,13 +2,6 @@
 
 This document describes the steps necessary to build and assemble the hand-held controller body part.
 
-## Getting the parts
-Aside from the 3D printed equipment and printed circuit boards, the parts required to build the controller can be obtained from two suppliers; [McMaster-Carr](http://mcmaster.com) and [Digikey](http://digikey.com). It is most likely possible to find other sources for the components, but the part numbers given here are for these two suppliers. The manufacturers names and part numbers are also given when available. The numbers given represent the bare minimum required to build the controller. Getting spares of everything is highly recommended.
-
-## COTS
-This section details the parts that need to be purchased directly from a supplier.
-[BOM.md](BOM.md)
-
 
 ## Assembly
 
@@ -39,7 +32,7 @@ Shutter assembly drawing | Shutter assembly exemple
 
 1. Disassemble a discarded computer keyboard to recuperate the membrane making the rubber dome switches. Individually cut away the switch dome parts and remove centre of top surface using an x-acto knife.
 
-<img src="img/silicone_membrane.jpg" alt="Silicone membrane" width="600"/>
+<img src="./img/silicone_membrane.jpg" alt="Silicone membrane" width="600"/>
 
 2. Test assembly of shutter, membrane and switch body by inserting the shutter by inserting the shutter blade into the empty centre part of rubber dome, then into gap at the top of switch body. The shutter blade should completely occult the guide hole for the fiber optic when button is pressed down, but leave it free when in upward position. The distance between the bottom
  of the shutter cap and the top of switch body will determine the stroke length of the key. The smaller this distance, the more responsive the controls will be. The shutter should move freely up and down.
