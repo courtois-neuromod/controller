@@ -1,6 +1,6 @@
 # Programming the Teensy board
 
-The code running on the microcontroller was written with the Arduino IDE using th teensyduino add-on.
+The code running on the microcontroller was written with the Arduino IDE using the teensyduino add-on.
 
 ## Arduino
 
