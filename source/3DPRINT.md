@@ -8,7 +8,7 @@ Parts usually require a small amount of post finishing. A kit of fine grit files
 1. [Casing_Top](./_static/download/stl/Top.zip)
 2. [Casing_Bottom](./_static/download/stl/Bottom.zip)
 3. [Switch_Body](./_static/download/stl/Switch_Body.zip)
-4. [Shutter_Cap](./_static/download/stl/Shutter_cap.zip)
+4. [Shutter_Cap](./_static/download/stl/Shutter_Cap.zip)
 5. [Shutter_Blade](./_static/download/stl/Shutter_Blade.zip)
 6. [DPad_Support](./_static/download/stl/DPad_Support.zip)
 7. [Dir_Button](./_static/download/stl/Dir_Button.zip)
