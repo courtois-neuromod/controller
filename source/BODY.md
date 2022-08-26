@@ -82,7 +82,7 @@ Fiber_Sheath_Assembly
 Test casing for fit
 
 
-<img src="./_static/body/PostProcess_Bottom.png" alt="" width="400"/> |<img src="./_static/bodyPostProcess_Top.png" alt="" width="400"/><br>
+<img src="./_static/body/PostProcess_Bottom.png" alt="" width="400"/> | <img src="./_static/body/PostProcess_Top.png" alt="" width="400"/> <br>
 Areas commonly requiring post-processing
 
 ### Optical fibers assembly
