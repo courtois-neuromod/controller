@@ -1,7 +1,7 @@
 # 3D printing the parts
 This file details the list of 3D printed parts required to build the controller and gives information about the main printing parameters used. All parts were printed using an Ultimaker 3 [http://ultimaker.com](http://ultimaker.com) printer. The print direction given was set as the positive Z direction in the printer. So if the direction **+Y** is given, the positive Y direction from the .stl file was set as positive Z () in the slicing software.
 
-Parts usually require a small amount of post finishing. A kit of fine grit files like https://www.mcmaster.com/8174A42/ is very useful for that purpose.
+Parts usually require a small amount of post finishing. A kit of fine grit files like [this](https://www.mcmaster.com/8174A42/) is very useful for that purpose.
 
 ## List of files
 
