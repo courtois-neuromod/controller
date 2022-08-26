@@ -56,7 +56,7 @@ Shutter assembly drawing | Shutter assembly exemple
 3. Label each fiber with the name of matching control. On the end where the fibers are split for the largest distance (controller end) place a label on each single fiber
 4. On the controller side of the fibers, make two bundles of fibers. Place one fiber of eac78h control in either bundle.
 5. For one of the two bundles, cut the fibers for the directional pad controls about 150 mm shorter than the ones for the buttons. Do the opposite with the other bundle. This will allow a cleaner layout of the fibers inside the casing.
-6. Strip and polish fibers **(need procedure)**
+6. Strip and polish fibers
 7. Cut two 500 mm lengths of the 13 mm ID plastic hose and fix those on the ends of the Y splitter
 8. Fix second end of plastic hoses to extrusions on part *Casing_Bottom*
 
