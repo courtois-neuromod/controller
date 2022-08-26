@@ -12,6 +12,8 @@ Download and install the [Teensyduino add-on](https://www.pjrc.com/teensy/td_dow
 
 ## Code
 
+<img src="./_static/teensy/Teensy_as_Keyboard.png" alt="" width="800"/><br>
+
 ```
 
 /*
