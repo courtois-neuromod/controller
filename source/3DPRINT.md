@@ -21,7 +21,7 @@ Parts usually require a small amount of post finishing. A kit of fine grit files
 14. Fiber_Cutting_Block
 
 ## Casing top
-[Top.zip](CAD/stl/Top.zip) | <img src="./_static/3dprint/Casing_Top.png" alt="Casing Top" width="200"/>
+[Top.zip](./_static/download/stl/Top.zip) | <img src="./_static/3dprint/Casing_Top.png" alt="Casing Top" width="200"/>
 ------|--------
 Weight|53.8 g
 Volume|46.4 cm<sup>3</sup>
@@ -41,7 +41,7 @@ Print direction | +Y
 Comments
 
 ## Casing bottom
-[Bottom.zip](CAD/stl/Bottom.zip) | <img src="./_static/3dprint/Casing_Bottom.png" alt="Casing Bottom" width="200"/>
+[Bottom.zip](./_static/download/stl/Bottom.zip) | <img src="./_static/3dprint/Casing_Bottom.png" alt="Casing Bottom" width="200"/>
 ------|--------
 Weight|107.9 g
 Volume|87.0 cm<sup>3</sup>
@@ -61,7 +61,7 @@ Print direction | -Y
 Comments
 
 ## Switch body
-[Switch_Body.zip](CAD/stl/Switch_Body.zip) | <img src="./_static/3dprint/Switch_Body.png" alt="Switch Body" width="200"/>
+[Switch_Body.zip](./_static/download/stl/Switch_Body.zip) | <img src="./_static/3dprint/Switch_Body.png" alt="Switch Body" width="200"/>
 ------|--------
 Weight|3.6 g
 Volume|2.9 cm<sup>3</sup>
@@ -81,7 +81,7 @@ Print direction | +Y
 Comments|
 
 ## Shutter cap
-[Shutter_Cap.zip](CAD/stl/Shutter_cap.zip) | <img src="./_static/3dprint/Shutter_Cap.png" alt="Shutter Cap" width="200"/>
+[Shutter_Cap.zip](./_static/download/stl/Shutter_cap.zip) | <img src="./_static/3dprint/Shutter_Cap.png" alt="Shutter Cap" width="200"/>
 ------|--------
 Weight|0.19 g
 Volume|0.15 cm<sup>3</sup>
@@ -101,7 +101,7 @@ Print direction | -Y
 Comments|
 
 ## Shutter blade
-[Shutter_Blade.zip](CAD/stl/Shutter_Blade.zip) | <img src="./_static/3dprint/Shutter_Blade.png" alt="Shutter Blade" width="200"/>
+[Shutter_Blade.zip](./_static/download/stl/Shutter_Blade.zip) | <img src="./_static/3dprint/Shutter_Blade.png" alt="Shutter Blade" width="200"/>
 ------|--------
 Weight|0.014 g
 Volume|0.0012 cm<sup>3</sup>
@@ -121,7 +121,7 @@ Print direction | +X
 Comments | This works better if printed with dark (ideally black) material. This part takes very little material, prints fast and warps easily, so print lots of it and keep the best ones.
 
 ## Direction pad support
-[DPad_Support.zip](CAD/stl/DPad_Support.zip) | <img src="./_static/3dprint/DPad_Support.png" alt="Directional Pad Support" width="200"/>
+[DPad_Support.zip](./_static/download/stl/DPad_Support.zip) | <img src="./_static/3dprint/DPad_Support.png" alt="Directional Pad Support" width="200"/>
 ------|--------
 Weight|14.6 g
 Volume|11.8 cm<sup>3</sup>
@@ -141,7 +141,7 @@ Print direction | +Y
 Comments | Some post finishing of guiding slots may be required to get smooth button motion. Use of fine grit small detailing files or sanding paper recommended. This part can be printed at lower density than 100%, but make sure that walls are thick enough. Cura's default with 0.4 mm nozzle is 1 mm. At least double that.
 
 ## Button support
-[Buttons_Support.zip](CAD/stl/Buttons_Support.zip) | <img src="./_static/3dprint/Button_Support.png" alt="Directional Pad Support" width="200"/>
+[Buttons_Support.zip](./_static/download/stl/Buttons_Support.zip) | <img src="./_static/3dprint/Button_Support.png" alt="Directional Pad Support" width="200"/>
 ------|--------
 Weight|16.0  g
 Volume|12.9 cm<sup>3</sup>
@@ -161,7 +161,7 @@ Print direction | +Y
 Comments | Some post finishing of guiding slots may be required to get smooth button motion. Use of fine grit small detailing files or sanding paper recommended. This part can be printed at lower density than 100%, but make sure that walls are thick enough. Cura's default with 0.4 mm nozzle is 1 mm. At least double that.
 
 ## Direction button
-[Dir_Button.zip](CAD/stl/Dir_Button.zip) | <img src="./_static/3dprint/Direction_Button.png" alt="Direction_Button" width="200"/>
+[Dir_Button.zip](./_static/download/stl/Dir_Button.zip) | <img src="./_static/3dprint/Direction_Button.png" alt="Direction_Button" width="200"/>
 ------|--------
 Weight|1.6 g
 Volume|1.3 cm<sup>3</sup>
@@ -181,7 +181,7 @@ Print direction | +Y
 Comments | Precision of dimensions and finish quality are very important for this part. Fill percentage does not really matter, but this is a very small part, so material quantity and print time are both are not a problem.
 
 ## Round button
-[Button_Cap.zip](CAD/stl/Button_Cap.zip) | <img src="./_static/3dprint/Round_Button.png" alt="Round_Button" width="200"/>
+[Button_Cap.zip](./_static/download/stl/Button_Cap.zip) | <img src="./_static/3dprint/Round_Button.png" alt="Round_Button" width="200"/>
 ------|--------
 Weight|1.19 g
 Volume|0.96 cm<sup>3</sup>
@@ -201,7 +201,7 @@ Print direction | +Y
 Comments | Precision of dimensions and finish quality are very important for this part. Fill percentage does not really matter, but this is a very small part, so material quantity and print time are both are not a problem.
 
 ## Direction pad cover
-[DPad_Cover.zip](CAD/stl/DPad_Cover.zip) | <img src="./_static/3dprint/DPad_Cover.png" alt="DPad_Cover" width="200"/>
+[DPad_Cover.zip](./_static/download/stl/DPad_Cover.zip) | <img src="./_static/3dprint/DPad_Cover.png" alt="DPad_Cover" width="200"/>
 ------|--------
 Weight|1.19 g
 Volume|0.96 cm<sup>3</sup>
@@ -221,7 +221,7 @@ Print direction | +Y
 Comments |
 
 ## Button_Cover
-[Button_Cover.zip](/CAD/stl/Button_Cover.zip) | <img src="./_static/3dprint/Button_Cover.png" alt="Button_Cover" width="200"/>
+[Button_Cover.zip](./_static/download/stl/Button_Cover.zip) | <img src="./_static/3dprint/Button_Cover.png" alt="Button_Cover" width="200"/>
 ------|--------
 Weight|1.19 g
 Volume|0.96 cm<sup>3</sup>
