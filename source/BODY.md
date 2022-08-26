@@ -45,7 +45,7 @@ Shutter assembly drawing | Shutter assembly exemple
 
  3. Since the rubber domes recuperated from computer keyboards will very likely vary in dimensions, it might be necessary to modify shutter cap and shutter blade dimensions. The file [Shutter_Assembly_Param.f3d](CAD/f3d/Shutter_Assembly_Param.f3d) contains these two parts in Autodesk Fusion 360 format. The design is parametric to facilitate modifications. To edit the parts, open the file in **Fusion 360**, go to Modify, then select change parameters and expand User Parameters. Changing the value of parameter *Shutter_Cap_Shaft_Length* will allow to adjust the stroke length, while changing *Shutter_Blade_L* will allow ensuring correct shutter operation. That part is also available in [.step](/CAD/stp/Shutter_Cap.step) format for import in other CAD programs.
 
-<img src="img/f3d_screenshot.png" alt="Parameters edit in Fusion 360" width="600"><br>
+<img src="./_static/body/f3d_screenshot.png" alt="Parameters edit in Fusion 360" width="600"><br>
 
 4. Ensure that the air gap and the fiber optic guide in the 3D printed switch bodies are free of any residual PLA or support material. Hold switch body in front of a light source and check along Z axis for the air gap, and along horizontal axis for the fiber optic guide.
 
@@ -60,13 +60,13 @@ Shutter assembly drawing | Shutter assembly exemple
 7. Cut two 500 mm lengths of the 13 mm ID plastic hose and fix those on the ends of the Y splitter
 8. Fix second end of plastic hoses to extrusions on part *Casing_Bottom*
 
-<img src="img/Fiber_Sheath_Assembly.png" alt="Fiber_Sheath_Assembly" width="600"/>
+<img src="./_static/body/Fiber_Sheath_Assembly.png" alt="Fiber_Sheath_Assembly" width="600"/>
 
 Fiber_Sheath_Assembly
 
 9. For each control, place a *Switch_Body* in matching groove inside casing.
 
-<img src="img/Switch_Body_Positioning.png" alt="Switch_Body_Positioning" width="600"/>
+<img src="./_static/body/Switch_Body_Positioning.png" alt="Switch_Body_Positioning" width="600"/>
 
 
 10. Insert the fiber optics into Y splitter and push gently until both fibers emerge inside of casing. The bundle where the buttons fibers are longer will go on the directional pad side. There will be one fiber for each control in each branch of the Y. Make sure that the length protruding inside the casing is enough to reach into the corresponding *Switch_Module* and allow to lay out cleanly inside casing.
@@ -74,78 +74,78 @@ Fiber_Sheath_Assembly
 12. Optional: Depending on fit tightness of *Switch_Module* parts inside grooves, it is also possible to glue the module in place. If gluing modules in place, wait for glue on fibers to set before proceeding
 13. Place one threaded Nylon insert in each mounting post of part *Casing_Top*. If inserts don't fit inside, re-drill hole using 1/4" (6.35 mm) bit. If inserts are loose, use a drop of cyanoacrylate adhesive
 
-<img src="img/Threaded_Inserts.png" alt="Threaded_Inserts" width="600"/><br>
+<img src="./_static/body/Threaded_Inserts.png" alt="Threaded_Inserts" width="600"/><br>
 
 14. Before starting assembly, test bottom and top parts of casing for fit. The two halves should fit together without any visible gap. Common area that might need post processing are the top and bottom of screw posts and the lip that runs around the perimeter of the bottom part, as well as the matching flat surface on the top part. If necessary, file or sand away excess of material that might prevent case from closing properly.
 
-<img src="img/PXL_20220323_120717804.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220323_120717804.jpg" alt="" width="600"/><br>
 Test casing for fit
 
-<img src="img/PostProcess_Bottom.png" alt="" width="400"/> |<img src="img/PostProcess_Top.png" alt="" width="400"/><br>
+<img src="./_static/body/PostProcess_Bottom.png" alt="" width="400"/> |<img src="img/PostProcess_Top.png" alt="" width="400"/><br>
 Areas commonly requiring post-processing
 
 ### Optical fibers assembly
-<img src="img/PXL_20220318_175520012.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220318_175520012.jpg" alt="" width="600"/><br>
 Parts ready for assembly
 
 1. Separate bundle of fiber optics into two smaller bundles of 8 fibers each. Pull each smaller bundle through the Y splitter with one small bundle coming out of each of the Y branches. Pull each of the smaller bundle into the 1 meter protective sheath until there is approximately 300 mm of fibers coming out of each sheath.
 
-<img src="img/PXL_20220321_141826371.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220321_141826371.jpg" alt="" width="600"/><br>
 Separating fibers bundle with Y splitter
 
 2. Pull each bundle into the bottom part of casing through openings on the sides and make sure that the sheaths fit nicely on the protruding parts and that you have at least 200 mm length of fibers going into the casing on both sides.
 
-<img src="img/PXL_20220321_142636964.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220321_142636964.jpg" alt="" width="600"/><br>
 Fibers insertion in casing
 
 3. Strip fibers and polish the fibers. It's possible to use a regular wire stripping tool set for #18 wire size. Insert fibers into switch body so teh tip of the fiber is flush with the internal wall of the air gap. Ensure that the shutter is free to move after the fibers are in place.
 4. Use a drop a glue to affix the fibers to the switch body. The type of glue is not critical, but **do not use** cyanoacrylate or other type of _permanent_ glue. These will work, but they will make the switch impossible to repair, which means in case of a broken fiber or other problem, you will need to replace the whole switch.
 
-<img src="img/Switch_exploded.png" alt="" width="600"/></br>
+<img src="./_static/body/Switch_exploded.png" alt="" width="600"/></br>
 
-<img src="img/PXL_20220321_144134479.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220321_144134479.jpg" alt="" width="600"/><br>
 Fibers connections and testing
 
 5. To assemble the switch inside the casing, it is easier to proceed by pairs, waiting for the glue on the fibers to set before proceeding to the next pair. Proceeding that way allows to move the fibers around to route them cleanly inside the casing without pulling them out from the body of already installed switches. The order is not critical, but it is a lot easier to finish with the pair that's the closest to the opening where the fibers enter the casing.
 
-<img src="img/PXL_20220321_184922653.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220321_184922653.jpg" alt="" width="600"/><br>
 Assembling first pair of controls
 
-<img src="img/PXL_20220322_141919955.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220322_141919955.jpg" alt="" width="600"/><br>
 Assembling second pair of controls
 
-<img src="img/PXL_20220322_173830800.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220322_173830800.jpg" alt="" width="600"/><br>
 Assembling third pair of controls
 
-<img src="img/PXL_20220323_120356872.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220323_120356872.jpg" alt="" width="600"/><br>
 Assembling fourth pair of controls
 
-<img src="img/PXL_20220323_120503073.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220323_120503073.jpg" alt="" width="600"/><br>
 Add buttons supports
 
-<img src="img/PXL_20220323_171028876.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220323_171028876.jpg" alt="" width="600"/><br>
 Installing rubber membranes and shutters
 
-<img src="img/PXL_20220323_171327664.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220323_171327664.jpg" alt="" width="600"/><br>
 Finished view
 
-<img src="img/PXL_20220323_171418885.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220323_171418885.jpg" alt="" width="600"/><br>
 Re-install buttons supports
 
-<img src="img/PXL_20220323_171550344.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220323_171550344.jpg" alt="" width="600"/><br>
 Close casing
 
-<img src="img/PXL_20220323_172005029.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220323_172005029.jpg" alt="" width="600"/><br>
 Casing closed top view
 
-<img src="img/PXL_20220323_172037025.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220323_172037025.jpg" alt="" width="600"/><br>
 Install buttons
 
-<img src="img/PXL_20220323_172241888.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220323_172241888.jpg" alt="" width="600"/><br>
 Finished view
 
-<img src="img/PXL_20220323_172252091.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220323_172252091.jpg" alt="" width="600"/><br>
 Install direction pad cover and buttons cover
 
-<img src="img/PXL_20220323_173032643.jpg" alt="" width="600"/><br>
+<img src="./_static/body/PXL_20220323_173032643.jpg" alt="" width="600"/><br>
 Assembly complete
