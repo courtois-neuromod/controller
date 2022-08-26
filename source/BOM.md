@@ -24,6 +24,6 @@ Polycarbonate Pan Head Philips Screw 4-40 x 3/16" <sup>3</sup> | McMaster-Carr |
 Nylon 6/6 Female Threaded Round Standoff 8-32 x 1/4" <sup>2</sup> | McMaster-Carr| |[96110A026](https://www.mcmaster.com/96110A026)| 5
 Nylon 6/6 Female Threaded Round Standoff 4-40 x 1/8" <sup>3</sup>| McMaster-Carr| |[96110A001](https://www.mcmaster.com/96110A001)| 8
 
-1 : Optional
-2 : Metric equivalent M4 thread
-3 : Metric equivalent M2.5 thread
+1. Optional
+2. Metric equivalent M4 thread
+3. Metric equivalent M2.5 thread
