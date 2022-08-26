@@ -12,7 +12,9 @@ Download and install the [Teensyduino add-on](https://www.pjrc.com/teensy/td_dow
 
 ## Code
 
-`/*
+```
+
+/*
     Name:       Neuromod_Game_Controller.ino
     Created:	2019-01-08 11:22:35
     Author:     Andre Cyr
@@ -164,4 +166,7 @@ void trgIn()
 {
 	triggered = true;
 }
-`
+
+
+
+```
