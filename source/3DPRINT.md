@@ -5,19 +5,19 @@ Parts usually require a small amount of post finishing. A kit of fine grit files
 
 ## List of files
 
-1. [Casing_Top](./static/download/stl/Top.zip)
-2. [Casing_Bottom](CAD/stl/Bottom.zip)
-3. [Switch_Body](CAD/stl/Switch_Body.zip)
-4. [Shutter_Cap](CAD/stl/Shutter_cap.zip)
-5. [Shutter_Blade](CAD/stl/Shutter_Blade.zip)
-6. [DPad_Support](CAD/stl/DPad_Support.zip)
-7. [Dir_Button](CAD/stl/Dir_Button.zip)
-8. [Button_Cap](CAD/stl/Button_Cap.zip)
-9. [DPad_Cover](CAD/stl/DPad_Cover.zip)
-10. [Button_Cover](CAD/stl/Buttons_Cover.zip)
+1. [Casing_Top](./_static/download/stl/Top.zip)
+2. [Casing_Bottom](./_static/download/stl/Bottom.zip)
+3. [Switch_Body](./_static/download/stl/Switch_Body.zip)
+4. [Shutter_Cap](./_static/download/stl/Shutter_cap.zip)
+5. [Shutter_Blade](./_static/download/stl/Shutter_Blade.zip)
+6. [DPad_Support](./_static/download/stl/DPad_Support.zip)
+7. [Dir_Button](./_static/download/stl/Dir_Button.zip)
+8. [Button_Cap](./_static/download/stl/Button_Cap.zip)
+9. [DPad_Cover](./_static/download/stl/DPad_Cover.zip)
+10. [Button_Cover](./_static/download/stl/Buttons_Cover.zip)
 11. Y_Splitter
-12. [Interface_Casing_Top](CAD/stl/Interface_Top.zip)
-13. [Interface_Casing_Bottom](CAD/stl/Interface_Bottom.zip)
+12. [Interface_Casing_Top](./_static/download/stl/Interface_Top.zip)
+13. [Interface_Casing_Bottom](./_static/download/stl/Interface_Bottom.zip)
 14. Fiber_Cutting_Block
 
 ## Casing top

@@ -5,7 +5,7 @@ Parts usually require a small amount of post finishing. A kit of fine grit files
 
 ## List of files
 
-1. [Casing_Top](CAD/stl/Top.zip)
+1. [Casing_Top](./_static/download/stl/Top.zip)
 2. [Casing_Bottom](CAD/stl/Bottom.zip)
 3. [Switch_Body](CAD/stl/Switch_Body.zip)
 4. [Shutter_Cap](CAD/stl/Shutter_cap.zip)
