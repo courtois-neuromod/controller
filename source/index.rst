@@ -5,6 +5,7 @@
    :caption: Contents:
 
    BOM
+   3DPRINT
    BODY
    PCB
    TEENSY
