@@ -1,6 +1,6 @@
 # Bill of material
 
-This section lists the commercially available parts needed to build the controller. At the time of building, these could be obtained for slightly less than $1000 CAD. When available the manufacturer's part number is also given to facilitate finding the parts from other suppliers than those given below.
+This section lists the commercially available parts needed to build the controller. At the time of building, these could be obtained for slightly less than $1000 CAD. When available, the manufacturer's part number is also given to facilitate finding the parts from other suppliers.
 
 Part | Supplier | Manufacturer part no. | Supplier part no. | Qty
 -----|----------|-----------------------|-------------------|-
