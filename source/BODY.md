@@ -26,7 +26,7 @@ Check both shutter blade and shutter cap for smoothness of surface and file or s
 
 Shutter assembly drawing | Shutter assembly exemple
 ---|---
-<img src="img/Shutter_Assembly.png" alt="Switch assembly exploded view" width="400"/> |<img src="img/Shutter_Assembly_demo.jpg" alt="Switch assembly exploded view" width="400"/>
+<img src="source/img/Shutter_Assembly.png" alt="Switch assembly exploded view" width="400"/> |<img src="img/Shutter_Assembly_demo.jpg" alt="Switch assembly exploded view" width="400"/>
 
 #### Switch assembly
 
