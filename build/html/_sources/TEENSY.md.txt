@@ -12,6 +12,8 @@ Download and install the [Teensyduino add-on](https://www.pjrc.com/teensy/td_dow
 
 ## Code
 
+Upload the code on the Teensy board by cutting and pasting the code block below in Arduino IDE or downloading the file Neuromod_Game_Controller.ino and opening it. Then select the board Teensy 3.5 and USB type Keyboard in the Tools menu. After this is done, click the upload button.
+
 <img src="./_static/teensy/Teensy_as_Keyboard.png" alt="" width="800"/><br>
 
 ```
