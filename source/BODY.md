@@ -26,13 +26,13 @@ Check both shutter blade and shutter cap for smoothness of surface and file or s
 
 Shutter assembly drawing | Shutter assembly exemple
 ---|---
-<img src="source/img/Shutter_Assembly.png" alt="Switch assembly exploded view" width="400"/> |<img src="img/Shutter_Assembly_demo.jpg" alt="Switch assembly exploded view" width="400"/>
+<img src="./img/Shutter_Assembly.png" alt="Switch assembly exploded view" width="400"/> |<img src="./img/Shutter_Assembly_demo.jpg" alt="Switch assembly exploded view" width="400"/>
 
 #### Switch assembly
 
 1. Disassemble a discarded computer keyboard to recuperate the membrane making the rubber dome switches. Individually cut away the switch dome parts and remove centre of top surface using an x-acto knife.
 
-<img src="./img/silicone_membrane.jpg" alt="Silicone membrane" width="600"/>
+<img src="img/silicone_membrane.jpg" alt="Silicone membrane" width="600"/>
 
 2. Test assembly of shutter, membrane and switch body by inserting the shutter by inserting the shutter blade into the empty centre part of rubber dome, then into gap at the top of switch body. The shutter blade should completely occult the guide hole for the fiber optic when button is pressed down, but leave it free when in upward position. The distance between the bottom
  of the shutter cap and the top of switch body will determine the stroke length of the key. The smaller this distance, the more responsive the controls will be. The shutter should move freely up and down.
