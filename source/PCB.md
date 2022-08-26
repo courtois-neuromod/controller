@@ -6,31 +6,31 @@ Get PCB 3D model [here](../CAD/stp/neuromod_game_controller_v1.zip)
 Get Gerber files [here](GerberFiles.zip) and send to fab house
 
 ## Assembly
-<img src="img/PXL_20220401_211853837.jpg" alt="" width="600"/><br>
+<img src="./_static/PCB/PXL_20220401_211853837.jpg" alt="" width="600"/><br>
 Raw PCB view
 
-<img src="img/PCB_1.png" alt="" width="600"/><br>
+<img src="./_static/PCB/PCB_1.png" alt="" width="600"/><br>
 PCB isometric view
 
-<img src="img/PCB_2.png" alt="" width="600"/><br>
+<img src="./_static/PCB/PCB_2.png" alt="" width="600"/><br>
 PCB Top view
 
-<img src="img/PCB_3.png" alt="" width="600"/><br>
+<img src="./_static/PCB/PCB_3.png" alt="" width="600"/><br>
 PCB Side view
 
-<img src="img/PCB_4.png" alt="" width="600"/><br>
+<img src="./_static/PCB/PCB_4.png" alt="" width="600"/><br>
 PCB Side view
 
 Teensy with headers | Teensy on PCB
 ---|---
-<img src="img/PCB_5.png" alt="" width="400"/> |<img src="img/PCB_6.png" alt="" width="400"/>
+<img src="./_static/PCB/PCB_5.png" alt="" width="400"/> |<img src="./_static/PCB/PCB_6.png" alt="" width="400"/>
 
 The Teensy board can be mounted either on headers (left) or directly on PCB (right). The first option is recommended as is allows easy replacement in case of damage.
 
-<img src="img/PCB_7.png" alt="" width="600"/><br>
+<img src="./_static/PCB/PCB_7.png" alt="" width="600"/><br>
 Adjust potentiometer to be 330 Ω between the two illustrated pins or solder directly a 330 Ω resistor between those pins.
 
-<img src="img/PCB_Layout.png" alt="" width="600"/><br>
+<img src="./_static/PCB/PCB_Layout.png" alt="" width="600"/><br>
 Board layout
 
 Schematics | Component| Value
