@@ -32,16 +32,16 @@ Shutter assembly drawing | Shutter assembly exemple
 
 1. Disassemble a discarded computer keyboard to recuperate the membrane making the rubber dome switches. Individually cut away the switch dome parts and remove centre of top surface using an x-acto knife.
 
-<img src="img/silicone_membrane.jpg" alt="Silicone membrane" width="600"/>
+<img src="./_static/body/silicone_membrane.jpg" alt="Silicone membrane" width="600"/>
 
 2. Test assembly of shutter, membrane and switch body by inserting the shutter by inserting the shutter blade into the empty centre part of rubber dome, then into gap at the top of switch body. The shutter blade should completely occult the guide hole for the fiber optic when button is pressed down, but leave it free when in upward position. The distance between the bottom
  of the shutter cap and the top of switch body will determine the stroke length of the key. The smaller this distance, the more responsive the controls will be. The shutter should move freely up and down.
 
- <img src="img/Switch_Assembly_Drawing.png" alt="Air Gap Visual Check" width="600"/>
+ <img src="./_static/body/Switch_Assembly_Drawing.png" alt="Air Gap Visual Check" width="600"/>
 
  Shutter up | Shutter pressed down
  ---|---
- <img src="img/PXL_20220321_143415461.jpg" alt="Shutter up" width="400"/> |<img src="img/PXL_20220321_143421189.jpg" alt="Shutter down" width="400"/>
+ <img src="./_static/body/PXL_20220321_143415461.jpg" alt="Shutter up" width="400"/> |<img src="./_static/body/PXL_20220321_143421189.jpg" alt="Shutter down" width="400"/>
 
  3. Since the rubber domes recuperated from computer keyboards will very likely vary in dimensions, it might be necessary to modify shutter cap and shutter blade dimensions. The file [Shutter_Assembly_Param.f3d](CAD/f3d/Shutter_Assembly_Param.f3d) contains these two parts in Autodesk Fusion 360 format. The design is parametric to facilitate modifications. To edit the parts, open the file in **Fusion 360**, go to Modify, then select change parameters and expand User Parameters. Changing the value of parameter *Shutter_Cap_Shaft_Length* will allow to adjust the stroke length, while changing *Shutter_Blade_L* will allow ensuring correct shutter operation. That part is also available in [.step](/CAD/stp/Shutter_Cap.step) format for import in other CAD programs.
 
