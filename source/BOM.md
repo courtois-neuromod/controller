@@ -8,7 +8,7 @@ Part | Supplier | Manufacturer part no. | Supplier part no. | Qty
 Fiber optic cable duplex 100m  | Digikey | HFBR-RUD100Z | [516-2093-ND](https://www.digikey.ca/en/products/detail/broadcom-limited/HFBR-RUD100Z/1990491) | 1
 Fiber optic transmitter | Digikey | SP000063814 | [516-2213-ND](https://www.digikey.ca/en/products/base-product/broadcom-limited/516/SP000063814/298985)| 8
 Fiber optic receiver | Digikey | SP000063855 | [516-2455-ND](https://www.digikey.ca/en/products/base-product/broadcom-limited/516/SP000063855/298987) | 8
-Teensy 3.5 microcontroller board | Digikey |DEV-14055 | [1568-1443-ND](https://www.digikey.ca/en/products/detail/sparkfun-electronics/DEV-14055/6235191)  | 1
+Teensy 3.5 microcontroller board<br>**It is important to use version 3.5 and not 3.6.<br>I/O pins on 3.6 are not 5V tolerant** | Digikey |DEV-14055 | [1568-1443-ND](https://www.digikey.ca/en/products/detail/sparkfun-electronics/DEV-14055/6235191)  | 1
 Gate driver | Digikey | SN75451BP | [296-1746-5-ND](https://www.digikey.ca/en/products/detail/texas-instruments/SN75451BP/277392) | 5
 Hose 13mm ID, black PE <sup>1</sup>|Digikey|CLTS50F-C|[298-13576-ND](https://www.digikey.ca/en/products/detail/panduit-corp/CLTS50F-C/4567741) | 1
 Hose 19.48mm ID, black PE <sup>1</sup>|Digikey|CLTS75F-C|	[298-13577-ND](https://www.digikey.ca/en/products/detail/panduit-corp/CLTS75F-C/4567748) | 1
