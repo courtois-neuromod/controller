@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Courtois NeuroMod'
+project = 'Game controller for fMRI'
 copyright = '2022, Courtois NeuroMod team'
 author = 'Courtois NeuroMod team'
 
