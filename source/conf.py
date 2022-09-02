@@ -55,7 +55,7 @@ html_theme = 'sphinx_rtd_theme'
 html_short_title = 'CNeuroMod'
 
 # The logo
-html_logo = 'img/logo_neuromod_black.png'
+html_logo = 'img/controller_model.png'
 
 # icon
 html_favicon = 'img/logo_neuromod_small.png'
