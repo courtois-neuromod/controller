@@ -1,5 +1,9 @@
 # Programming the Teensy board
 
+Communication between the PCB and the computer is managed with code running on a Teensy board programmed to emulate a USB keyboard. The microcontroller continuously polls the state of the fiber optic receivers and sends `press/release` events when they are detected. Additionally, there is a trigger input used to synchronize task with scanner acquisition.
+
+To avoid multiple presses happening when the shutter crosses the detection threshold, there is some level of debouncing implemented. The state of all receivers is stored in an array as a single bit, then the status of that kay is only considered to change when all bits are identical and the resulting state is different from the previous one.
+
 The code running on the microcontroller was written with the Arduino IDE using the teensyduino add-on.
 
 ## Arduino

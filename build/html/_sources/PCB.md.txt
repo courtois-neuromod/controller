@@ -1,9 +1,9 @@
 # PCB assembly instructions
-Get PCB 3D model [here](../CAD/stp/neuromod_game_controller_v1.zip)
+Get PCB 3D model [here](./_static/download/stp/neuromod_game_controller_v1.zip)
 
 ## Ordering PCBs
 
-Get Gerber files [here](GerberFiles.zip) and send to fab house
+Get Gerber files [here](./_static/download/gerber/GerberFiles.zip) and send to fab house
 
 ## Assembly
 <img src="./_static/PCB/PXL_20220401_211853837.jpg" alt="" width="600"/><br>
