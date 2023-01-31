@@ -34,7 +34,7 @@ Shutter assembly drawing | Shutter assembly exemple
 
 <img src="./_static/body/silicone_membrane.jpg" alt="Silicone membrane" width="600"/>
 
-2. Test assembly of shutter, membrane and switch body by inserting the shutter by inserting the shutter blade into the empty centre part of rubber dome, then into gap at the top of switch body. The shutter blade should completely occult the guide hole for the fiber optic when button is pressed down, but leave it free when in upward position. The distance between the bottom
+2. Test assembly of shutter, membrane and switch body by inserting the shutter blade into the empty centre part of rubber dome, then into gap at the top of switch body. The shutter blade should completely occult the guide hole for the fiber optic when button is pressed down, but leave it free when in upward position. The distance between the bottom
  of the shutter cap and the top of switch body will determine the stroke length of the key. The smaller this distance, the more responsive the controls will be. The shutter should move freely up and down.
 
  <img src="./_static/body/Switch_Assembly_Drawing.png" alt="Air Gap Visual Check" width="600"/>
