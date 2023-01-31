@@ -33,6 +33,9 @@ Adjust potentiometer to be 330 Ω between the two illustrated pins or solder dir
 <img src="./_static/PCB/PCB_Layout.png" alt="" width="600"/><br>
 Board layout
 
+<img src="./_static/PCB/PCB_Schematics.png" alt="" width="600"/><br>
+Board schematics
+
 Schematics | Component| Value
 -----------|----------|---|
 IC1 - IC5, IC7|Gate driver|SN75451BP
