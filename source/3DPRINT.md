@@ -17,6 +17,8 @@ Parts usually require a small amount of post finishing. A kit of fine grit files
 10. [Button_Cover](./_static/download/stl/Buttons_Cover.zip)
 11. [Interface_Casing_Top](./_static/download/stl/Interface_Top.zip)
 12. [Interface_Casing_Bottom](./_static/download/stl/Interface_Bottom.zip)
+13. [Splitter](./_static/download/stl/Splitter.zip)
+
 
 ## Casing top
 [Top.zip](./_static/download/stl/Top.zip) | <img src="./_static/3dprint/Casing_Top.png" alt="Casing Top" width="200"/>
@@ -237,3 +239,23 @@ Bed temperature | 50 °C
 Layer height | 0.06 mm
 Print direction | +Y
 Comments | This part uses 2 colors printing for the markings. You need to load 5 stl files in your slicer, assign each to the appropriate material, then merge them into one piece
+
+## Splitter
+[Splitter.zip](./_static/download/stl/Splitter.zip) | <img src="./_static/3dprint/Splitter.png" alt="Splitter" width="200"/>
+------|--------
+Weight|17.60 g
+Volume|14.19 cm<sup>3</sup>
+Bounding box | 63.8 x 23.1  x 57.6 mm
+Qty | 1
+Material 1 | PLA
+Material 2 (support) | PVA
+Material 1 density | 100%
+Material 2 density | 30%
+Nozzle 1 size | 0.8 mm
+Nozzle 2 size | 0.4 mm
+Nozzle 1 temperature | 205 °C
+Nozzle 2 temperature | 230 °C
+Bed temperature | 50 °C
+Layer height | 0.2 mm
+Print direction | +X
+Comments |
