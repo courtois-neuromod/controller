@@ -49,7 +49,7 @@ uint8_t trgKeyPressLength;
 // The setup() function runs once each time the micro-controller starts
 void setup()
 {
-	pinMode(trgPin, INPUT);
+	pinMode(trgPin, INPUT_PULLUP);
 	pinMode(ledPin, OUTPUT);
 	debug = digitalRead(trgPin) == 0 ? true : false;
 	trgKeyPressLength = 10; // duration of key press for trigger in ms
